@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ECS.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/World_1.unity
+    guid: 8411c4dd8a1e29c4799170cefabb1647
+  - enabled: 1
+    path: Assets/Scenes/World_2.unity
+    guid: 6715526827bc0c24baf0ace2c7e750be
+  - enabled: 1
+    path: Assets/Scenes/World_3.unity
+    guid: 4d9b6a0990014634c895548f5668664d
+  - enabled: 1
+    path: Assets/Scenes/World_4.unity
+    guid: 50e71c582aca6d44db6df8e0c6ec475c
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
